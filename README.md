@@ -49,7 +49,7 @@ Format | Turtle | Turtle
 ##Schema 
 
 
-Top 5 resources from DBpedia_page_links_cleaned_English Dataset
+Top 5 resources with high pagerank from DBpedia_page_links_cleaned_English Dataset
 
 ```
 <http://dbpedia.org/resource/Category:Living_people> <http://dbpedia.org/ontology/wikiPageRank> "0.002395068441893186"^^<http://www.w3.org/2001/XMLSchema#float> .
@@ -59,7 +59,7 @@ Top 5 resources from DBpedia_page_links_cleaned_English Dataset
 <http://dbpedia.org/resource/Animal> <http://dbpedia.org/ontology/wikiPageRank> "8.645187491107416E-4"^^<http://www.w3.org/2001/XMLSchema#float> .
 ```
 
-Top 5 resources from DBpedia_page_links_cleaned_German Dataset
+Top 5 resources with high pagerank from DBpedia_page_links_cleaned_German Dataset
 
 ```
 <http://de.dbpedia.org/resource/Kategorie:Mann> <http://dbpedia.org/ontology/wikiPageRank> "0.004087672881729741"^^<http://www.w3.org/2001/XMLSchema#float> .
