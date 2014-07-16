@@ -26,10 +26,10 @@ Alpha: 0.15 //Random jump probability, the probability of taking a random jump t
 If you are using this dataset please cite as:
 
 ```
-{dbpedia-pagerank,
+{dbpedia-graphmeasures,
   Author = {Dinesh Reddy},
-  Title = {DBpedia PageRank data set},
-  Location = {https://github.com/dineshreddykdp/DBpedia_PageRank_Scores},
+  Title = {DBpedia GraphMeasures},
+  Location = {http://semanticmultimedia.org/node/6},
   Resource type = {dataset},
   Publisher = {Hasso Plattner Institute},
   Publication date = {July 2014},
