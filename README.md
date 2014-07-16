@@ -27,7 +27,7 @@ If you are using this dataset please cite as:
 
 ```
 {dbpedia-graphmeasures,
-  Author = {Dinesh Reddy},
+  Author = {Harald Sack, Magnus Knuth, Dinesh Reddy},
   Title = {DBpedia GraphMeasures},
   Location = {http://semanticmultimedia.org/node/6},
   Resource type = {dataset},
